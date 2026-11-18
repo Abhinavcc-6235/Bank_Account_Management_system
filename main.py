@@ -19,6 +19,7 @@ cu1.deposit(1000)   # methode is defined in parent class
 cu1.display_balance()
 
 cu1.deposit(-500)
+
 cu1.display_balance()
 print('--------withdraw-----------')
 
@@ -55,3 +56,4 @@ sav1.withdraw(100)
 sav1.display_balance()
 print('--------intrest for savings acc-------')
 print('intrest amount is:',sav1.calculate_interest())
+print('helooo')
